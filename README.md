@@ -36,6 +36,7 @@ public class Funcionario implements Serializable {
 public class FuncionarioSaudavel extends Funcionario {
     // Atributos e métodos adicionais da classe FuncionarioSaudavel
 }
+
 Polimorfismo
 
 O polimorfismo é utilizado para tratar objetos de diferentes classes de maneira uniforme. No nosso sistema, a lista funcionarios pode conter objetos tanto da classe Funcionario quanto da classe FuncionarioSaudavel. Isso é possível porque FuncionarioSaudavel herda de Funcionario.
@@ -71,6 +72,7 @@ public static List<Funcionario> carregarListaFuncionarios(String filePath) {
         return null;
     }
 }
+
 Instalação
 
 Pré-requisitos
