@@ -8,19 +8,19 @@ O Sistema de Gerenciamento de Funcionários é uma solução abrangente projetad
 
 Benefícios para a Empresa
 
-- Melhor Preparação para Emergências:** Com informações médicas acessíveis, a empresa pode responder de forma mais eficaz a emergências médicas.
-- Cumprimento de Normas de Segurança:** A manutenção de registros médicos pode ajudar a empresa a cumprir regulamentos e normas de segurança no trabalho.
-- Maior Cuidado com os Funcionários:** Demonstrar preocupação com a saúde e o bem-estar dos funcionários pode melhorar a moral e a retenção de talentos.
+- Melhor Preparação para Emergências: Com informações médicas acessíveis, a empresa pode responder de forma mais eficaz a emergências médicas.
+- Cumprimento de Normas de Segurança: A manutenção de registros médicos pode ajudar a empresa a cumprir regulamentos e normas de segurança no trabalho.
+- Maior Cuidado com os Funcionários: Demonstrar preocupação com a saúde e o bem-estar dos funcionários pode melhorar a moral e a retenção de talentos.
 
 Funcionalidades Principais
 
-1. Adição de Funcionários:**
+1. Adição de Funcionários:
    - Permite adicionar novos funcionários com informações básicas (ID e nome).
    
-2. Busca de Funcionários:**
+2. Busca de Funcionários:
    - Permite buscar funcionários por ID para visualizar suas informações.
    
-3. Adição de Funcionários Saudáveis:**
+3. Adição de Funcionários Saudáveis:
    - Permite adicionar informações médicas adicionais (alergias, problemas médicos, contato de emergência).
 
 Conceitos Utilizados
