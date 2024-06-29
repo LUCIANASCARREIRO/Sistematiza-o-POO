@@ -1,6 +1,7 @@
 # SistematizacaoPOO
 
 Sistema de Gerenciamento de Funcionários
+
 Visão Geral
 
 O Sistema de Gerenciamento de Funcionários** é uma solução abrangente projetada para gerenciar dados de funcionários em uma empresa. Além das funcionalidades básicas de adição e busca de funcionários, o sistema se destaca ao permitir a inclusão de informações médicas críticas para funcionários, garantindo que as empresas estejam preparadas para responder rapidamente em situações de emergência.
