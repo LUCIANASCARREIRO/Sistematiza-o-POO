@@ -154,4 +154,5 @@ Notas Adicionais
 •	Flexibilidade: O sistema pode ser facilmente integrado com outras ferramentas e sistemas usados pela empresa.
 •	Escalabilidade: Pode ser ampliado para incluir mais funcionalidades conforme as necessidades da empresa crescem.
 Se você tiver alguma dúvida ou encontrar problemas, por favor, abra uma issue no repositório.
-Este README fornece uma visão mais detalhada do projeto, destacando conceitos importantes como polimorfismo, herança, listas e persistência dos dados, além de enfatizar os benefícios do sistema para uma empresa que precisa gerenciar informações médicas de seus funcionários.
+Este README fornece uma visão mais detalhada do projeto, destacando conceitos importantes como polimorfismo, herança, listas e persistência dos dados, 
+além de enfatizar os benefícios do sistema para uma empresa que precisa gerenciar informações médicas de seus funcionários.
